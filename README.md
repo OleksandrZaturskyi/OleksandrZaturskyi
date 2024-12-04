@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on software development
-- 📫 How to reach me - email: zaturskyi.aleksandr@gmail.com
+- 📫 How to reach me - [ozaturskyi.com](https://ozaturskyi.com)
 
 <!---
 OleksandrZaturskyi/OleksandrZaturskyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
