@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @OleksandrZaturskyi
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me - [ozaturskyi.com](https://ozaturskyi.com)
 
